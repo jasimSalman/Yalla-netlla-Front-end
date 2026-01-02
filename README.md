@@ -62,7 +62,7 @@
 - [ ] Add more categories and features.
 - [x] Add a map showing the locations of the places.
 - [] Integrate AI into the website to provide recommendations based on the items in the favorites list.
-
+**Live Site:** [Yallanetl3](http://yallanetl3.surge.sh/)
 ---
 
 ### **_Credits_**
