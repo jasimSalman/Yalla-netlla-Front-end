@@ -1,6 +1,6 @@
 import Axios from 'axios'
 
-export const BASE_URL = 'https://yala-netla.onrender.com'
+export const BASE_URL = 'https://yalla-netlla-back-end.onrender.com'
 
 const Client = Axios.create({ baseURL: BASE_URL })
 Client.interceptors.request.use(
